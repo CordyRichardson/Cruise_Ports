@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/build/intermediates/res/merged/release/menu/menu_main.xml",
+        "source": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/build/intermediates/res/merged/release/menu/menu_port_detail.xml",
+        "source": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/src/main/res/menu/menu_port_detail.xml"
+    }
+]

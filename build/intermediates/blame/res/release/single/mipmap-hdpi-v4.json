@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/build/intermediates/res/merged/release/mipmap-hdpi-v4/cp_launcher.png",
+        "source": "/Users/cordyrichardson/Android Studio Projects/CruisePorts/app/src/main/res/mipmap-hdpi/cp_launcher.png"
+    }
+]

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cruise Ports</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="port_names">
+        <item>Baltimore</item>
+        <item>Boston</item>
+        <item>Charleston</item>
+        <item>Fort Lauderdale</item>
+        <item>Galveston</item>
+        <item>Honolulu</item>
+        <item>Jacksonville</item>
+        <item>Long Beach</item>
+        <item>Miami</item>
+        <item>New Orleans</item>
+        <item>New York (Brooklyn)</item>
+        <item>New York (Manhattan)</item>
+        <item>Norfolk</item>
+        <item>Port Canaveral (Orlando)</item>
+        <item>San Francisco</item>
+        <item>San Diego</item>
+        <item>San Juan</item>
+        <item>Seattle</item>
+        <item>Tampa</item>
+    </string-array>
+
+    <string name="airport_distance_text">miles to cruise port</string>
+    <string name="area_hotels">Area Hotels: </string>
+    <string name="other_parking">Other Parking Options: </string>
+        <string name="place_url_text">
+        <u>website</u>
+    </string>
+    <string name="port_parking">Port Parking: </string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="taxi_fare_text">Estimated taxi fare: </string>
+    <string name="title_activity_port_detail">PortDetailActivity</string>
+
+</resources>
